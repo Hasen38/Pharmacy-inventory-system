@@ -25,24 +25,15 @@ clone the Repository
 
 2. git clone https://github.com/Hasen38/Pharmacy-inventory-system.git
 
-```
 cd Pharmacy-inventory-system
 ```
-
-
 3. Install packages with composer
-
-```
 composer install
+
 ```
-
-
 4. Install npm packages with 
 
-```
 npm install; npm run dev
-```
-
 ```
 5. Create your database 
 
