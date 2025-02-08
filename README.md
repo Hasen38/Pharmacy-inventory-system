@@ -27,8 +27,8 @@ clone the Repository
 
 ```
 cd Pharmacy-inventory-system
-
 ```
+
 
 3. Install packages with composer
 
@@ -41,7 +41,7 @@ composer install
 
 ```
 npm install; npm run dev
-
+```
 
 ```
 5. Create your database 
