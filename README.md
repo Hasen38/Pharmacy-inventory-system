@@ -34,10 +34,11 @@ cd Pharmacy-inventory-system
 
 ```
 composer install
-
 ```
 
+
 4. Install npm packages with 
+
 ```
 npm install; npm run dev
 
