@@ -27,19 +27,18 @@ clone the Repository
 ```
 cd Pharmacy-inventory-system
 
-```
 
 3. Install packages with composer
 ```
 composer install
 
-```
-4. Install npm packages with
 
+4. Install npm packages with
 ```
+
 npm install; npm run dev
 
-```
+
 5. Create your database 
 ```
 6. Rename .env.example to .env Or copy it and paste at project root directory and name the file .env.You can also use this command.
